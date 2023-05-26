@@ -1,0 +1,358 @@
+[
+  {
+    "id": "1",
+    "chefName": "John Smith",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": "03",
+    "like": 7198,
+    "chef_img_thumbnail": "https://img.freepik.com/free-photo/crazy-chef-happy-expression_1194-1527.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.1.1175214580.1668228643&semt=ais",
+    "Description": "Executive Chef: An executive chef is the highest-ranking chef in a restaurant or hotel kitchen. They are responsible for overseeing all aspects of the kitchen, including menu planning, recipe development, food preparation, and kitchen management. They often have years of experience and training, and are skilled at managing a team of chefs and kitchen staff.",
+    "recipe": [
+      {
+        "recipeId": "recipe1",
+        "recipeName": "Classic Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "white sugar",
+          "brown sugar",
+          "eggs",
+          "vanilla extract",
+          "all-purpose flour",
+          "Sugar"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/chocolate-chip-cookie-white-background_1205-524.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.5,
+        "cookingMethod": "1. Preheat the oven to 375°F. \n2. Cream together the butter, white sugar, and brown sugar until smooth. \n3. Beat in the eggs one at a time, then stir in the vanilla. \n4. Combine the flour, baking soda, and salt; gradually stir into the creamed mixture. \n5. Fold in the chocolate chips."
+      },
+      {
+        "recipeId": "recipe2",
+        "recipeName": "Beef Stroganoff",
+        "ingredients": [
+          "beef sirloin",
+          "onion",
+          "garlic",
+          "mushrooms",
+          "beef broth",
+          "sour cream",
+          "egg noodles"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/side-view-sac-kavurma-with-tomatoes_176474-3208.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.2,
+        "cookingMethod": "1. Slice the beef into thin strips. \n2. In a large skillet, cook the beef until browned. Remove from the skillet and set aside. \n3. In the same skillet, cook the onion and garlic until softened. Add the mushrooms and cook until they release their liquid. \n4. Add the beef broth to the skillet and bring to a simmer. \n5. Stir in the sour cream and return the beef to the skillet."
+      },
+      {
+        "recipeId": "recipe3",
+        "recipeName": "Beef and Broccoli",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "soy sauce",
+          "cornstarch",
+          "sugar",
+          "garlic",
+          "ginger"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/sliced-pork-steak-topped-with-white-sesame-fresh-pepper-seeds-along_1150-24780.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.8,
+        "cookingMethod": "1. Cut the beef into thin strips. \n2. In a small bowl, whisk together the soy sauce, cornstarch, and sugar. \n3. Heat a large skillet or wok over high heat. Add the vegetable oil and swirl to coat the pan. \n4. Add the beef and stir fry for. \n5. Stir in the sour cream and return the beef to the skillet."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "chefName": "Jane Doe",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": "06",
+    "like": 6938,
+    "chef_img_thumbnail": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=sph",
+    "Description": "Sous Chef: A sous chef is the second-in-command in a kitchen, and assists the executive chef in managing the kitchen staff and operations. They are responsible for supervising food preparation, cooking, and plating, and ensuring that all dishes are prepared to the restaurant's standards. Sous chefs often have formal culinary training and several years of experience.",
+
+    "recipe": [
+      {
+        "recipeId": "recipe1",
+        "recipeName": "Classic Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "white sugar",
+          "brown sugar",
+          "eggs",
+          "vanilla extract",
+          "all-purpose flour",
+          "Sugar"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/chocolate-chip-cookie-white-background_1205-524.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.5,
+        "cookingMethod": "1. Preheat the oven to 375°F. \n2. Cream together the butter, white sugar, and brown sugar until smooth. \n3. Beat in the eggs one at a time, then stir in the vanilla. \n4. Combine the flour, baking soda, and salt; gradually stir into the creamed mixture. \n5. Fold in the chocolate chips."
+      },
+      {
+        "recipeId": "recipe2",
+        "recipeName": "Beef Stroganoff",
+        "ingredients": [
+          "beef sirloin",
+          "onion",
+          "garlic",
+          "mushrooms",
+          "beef broth",
+          "sour cream",
+          "egg noodles"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/side-view-sac-kavurma-with-tomatoes_176474-3208.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.2,
+        "cookingMethod": "1. Slice the beef into thin strips. \n2. In a large skillet, cook the beef until browned. Remove from the skillet and set aside. \n3. In the same skillet, cook the onion and garlic until softened. Add the mushrooms and cook until they release their liquid. \n4. Add the beef broth to the skillet and bring to a simmer. \n5. Stir in the sour cream and return the beef to the skillet."
+      },
+      {
+        "recipeId": "recipe3",
+        "recipeName": "Beef and Broccoli",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "soy sauce",
+          "cornstarch",
+          "sugar",
+          "garlic",
+          "ginger"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/sliced-pork-steak-topped-with-white-sesame-fresh-pepper-seeds-along_1150-24780.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.8,
+        "cookingMethod": "1. Cut the beef into thin strips. \n2. In a small bowl, whisk together the soy sauce, cornstarch, and sugar. \n3. Heat a large skillet or wok over high heat. Add the vegetable oil and swirl to coat the pan. \n4. Add the beef and stir fry for. \n5. Stir in the sour cream and return the beef to the skillet."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "chefName": "Mike Johnson",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": "04",
+    "like": 1723,
+    "chef_img_thumbnail": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-9893.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.1.1175214580.1668228643&semt=sph",
+    "Description": "Pastry Chef: A pastry chef specializes in creating desserts, pastries, and baked goods. They often work in bakeries, cafes, and restaurants, and are responsible for developing recipes, sourcing ingredients, and creating visually appealing desserts. Pastry chefs require specialized training and experience in baking and pastry techniques.",
+    "recipe": [
+      {
+        "recipeId": "recipe1",
+        "recipeName": "Classic Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "white sugar",
+          "brown sugar",
+          "eggs",
+          "vanilla extract",
+          "all-purpose flour",
+          "Sugar"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/chocolate-chip-cookie-white-background_1205-524.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.5,
+        "cookingMethod": "1. Preheat the oven to 375°F. \n2. Cream together the butter, white sugar, and brown sugar until smooth. \n3. Beat in the eggs one at a time, then stir in the vanilla. \n4. Combine the flour, baking soda, and salt; gradually stir into the creamed mixture. \n5. Fold in the chocolate chips."
+      },
+      {
+        "recipeId": "recipe2",
+        "recipeName": "Beef Stroganoff",
+        "ingredients": [
+          "beef sirloin",
+          "onion",
+          "garlic",
+          "mushrooms",
+          "beef broth",
+          "sour cream",
+          "egg noodles"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/side-view-sac-kavurma-with-tomatoes_176474-3208.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.2,
+        "cookingMethod": "1. Slice the beef into thin strips. \n2. In a large skillet, cook the beef until browned. Remove from the skillet and set aside. \n3. In the same skillet, cook the onion and garlic until softened. Add the mushrooms and cook until they release their liquid. \n4. Add the beef broth to the skillet and bring to a simmer. \n5. Stir in the sour cream and return the beef to the skillet."
+      },
+      {
+        "recipeId": "recipe3",
+        "recipeName": "Beef and Broccoli",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "soy sauce",
+          "cornstarch",
+          "sugar",
+          "garlic",
+          "ginger"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/sliced-pork-steak-topped-with-white-sesame-fresh-pepper-seeds-along_1150-24780.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.8,
+        "cookingMethod": "1. Cut the beef into thin strips. \n2. In a small bowl, whisk together the soy sauce, cornstarch, and sugar. \n3. Heat a large skillet or wok over high heat. Add the vegetable oil and swirl to coat the pan. \n4. Add the beef and stir fry for. \n5. Stir in the sour cream and return the beef to the skillet."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "chefName": "Sarah Lee",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": "09",
+    "like": 2849,
+    "chef_img_thumbnail": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=sph",
+    "Description": "Line Cook: A line cook is responsible for preparing and cooking food on a specific station in the kitchen, such as the grill, sauté, or fry station. They work under the direction of the executive chef or sous chef, and must be skilled at working quickly and efficiently to ensure that dishes are prepared to order.",
+    "recipe": [
+      {
+        "recipeId": "recipe1",
+        "recipeName": "Classic Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "white sugar",
+          "brown sugar",
+          "eggs",
+          "vanilla extract",
+          "all-purpose flour",
+          "Sugar"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/chocolate-chip-cookie-white-background_1205-524.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.5,
+        "cookingMethod": "1. Preheat the oven to 375°F. \n2. Cream together the butter, white sugar, and brown sugar until smooth. \n3. Beat in the eggs one at a time, then stir in the vanilla. \n4. Combine the flour, baking soda, and salt; gradually stir into the creamed mixture. \n5. Fold in the chocolate chips."
+      },
+      {
+        "recipeId": "recipe2",
+        "recipeName": "Beef Stroganoff",
+        "ingredients": [
+          "beef sirloin",
+          "onion",
+          "garlic",
+          "mushrooms",
+          "beef broth",
+          "sour cream",
+          "egg noodles"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/side-view-sac-kavurma-with-tomatoes_176474-3208.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.2,
+        "cookingMethod": "1. Slice the beef into thin strips. \n2. In a large skillet, cook the beef until browned. Remove from the skillet and set aside. \n3. In the same skillet, cook the onion and garlic until softened. Add the mushrooms and cook until they release their liquid. \n4. Add the beef broth to the skillet and bring to a simmer. \n5. Stir in the sour cream and return the beef to the skillet."
+      },
+      {
+        "recipeId": "recipe3",
+        "recipeName": "Beef and Broccoli",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "soy sauce",
+          "cornstarch",
+          "sugar",
+          "garlic",
+          "ginger"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/sliced-pork-steak-topped-with-white-sesame-fresh-pepper-seeds-along_1150-24780.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.8,
+        "cookingMethod": "1. Cut the beef into thin strips. \n2. In a small bowl, whisk together the soy sauce, cornstarch, and sugar. \n3. Heat a large skillet or wok over high heat. Add the vegetable oil and swirl to coat the pan. \n4. Add the beef and stir fry for. \n5. Stir in the sour cream and return the beef to the skillet."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "chefName": "David Kim",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": "03",
+    "like": 9973,
+    "chef_img_thumbnail": "https://img.freepik.com/free-photo/confident-head-cook-standing-restaurant-professional-kitchen-with-arms-crossed-while-smiling-camera-sous-chef-wearing-cooking-uniform-while-preparing-ingredients-dinner-service_482257-44194.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=sph",
+    "Description": "Prep Cook: A prep cook is responsible for preparing ingredients for cooking, such as chopping vegetables, measuring out ingredients, and marinating meats. They also assist with cleaning and organizing the kitchen, and may help with cooking and plating dishes during service.",
+    "recipe": [
+      {
+        "recipeId": "recipe1",
+        "recipeName": "Classic Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "white sugar",
+          "brown sugar",
+          "eggs",
+          "vanilla extract",
+          "all-purpose flour",
+          "Sugar"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/chocolate-chip-cookie-white-background_1205-524.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.5,
+        "cookingMethod": "1. Preheat the oven to 375°F. \n2. Cream together the butter, white sugar, and brown sugar until smooth. \n3. Beat in the eggs one at a time, then stir in the vanilla. \n4. Combine the flour, baking soda, and salt; gradually stir into the creamed mixture. \n5. Fold in the chocolate chips."
+      },
+      {
+        "recipeId": "recipe2",
+        "recipeName": "Beef Stroganoff",
+        "ingredients": [
+          "beef sirloin",
+          "onion",
+          "garlic",
+          "mushrooms",
+          "beef broth",
+          "sour cream",
+          "egg noodles"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/side-view-sac-kavurma-with-tomatoes_176474-3208.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.2,
+        "cookingMethod": "1. Slice the beef into thin strips. \n2. In a large skillet, cook the beef until browned. Remove from the skillet and set aside. \n3. In the same skillet, cook the onion and garlic until softened. Add the mushrooms and cook until they release their liquid. \n4. Add the beef broth to the skillet and bring to a simmer. \n5. Stir in the sour cream and return the beef to the skillet."
+      },
+      {
+        "recipeId": "recipe3",
+        "recipeName": "Beef and Broccoli",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "soy sauce",
+          "cornstarch",
+          "sugar",
+          "garlic",
+          "ginger"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/sliced-pork-steak-topped-with-white-sesame-fresh-pepper-seeds-along_1150-24780.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.8,
+        "cookingMethod": "1. Cut the beef into thin strips. \n2. In a small bowl, whisk together the soy sauce, cornstarch, and sugar. \n3. Heat a large skillet or wok over high heat. Add the vegetable oil and swirl to coat the pan. \n4. Add the beef and stir fry for. \n5. Stir in the sour cream and return the beef to the skillet."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "chefName": "Emily Chen",
+    "yearsOfExperience": 9,
+    "numberOfRecipes": "11",
+    "like": 8572,
+    "chef_img_thumbnail": "https://img.freepik.com/premium-photo/smiling-female-chef-with-cut-vegetables-kitchen_13339-42852.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.1.1175214580.1668228643&semt=sph",
+
+    "Description": "Commis Chef: A commis chef is an entry-level position in a kitchen, and is responsible for assisting with food preparation, cooking, and cleaning. They work under the supervision of more experienced chefs, and are typically in the early stages of their culinary career. Commis chefs often receive formal training and may specialize in a particular area of the kitchen, such as pastry or sushi.",
+    "recipe": [
+      {
+        "recipeId": "recipe1",
+        "recipeName": "Classic Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "white sugar",
+          "brown sugar",
+          "eggs",
+          "vanilla extract",
+          "all-purpose flour",
+          "Sugar"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/chocolate-chip-cookie-white-background_1205-524.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.5,
+        "cookingMethod": "1. Preheat the oven to 375°F. \n2. Cream together the butter, white sugar, and brown sugar until smooth. \n3. Beat in the eggs one at a time, then stir in the vanilla. \n4. Combine the flour, baking soda, and salt; gradually stir into the creamed mixture. \n5. Fold in the chocolate chips."
+      },
+      {
+        "recipeId": "recipe2",
+        "recipeName": "Beef Stroganoff",
+        "ingredients": [
+          "beef sirloin",
+          "onion",
+          "garlic",
+          "mushrooms",
+          "beef broth",
+          "sour cream",
+          "egg noodles"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/side-view-sac-kavurma-with-tomatoes_176474-3208.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.2,
+        "cookingMethod": "1. Slice the beef into thin strips. \n2. In a large skillet, cook the beef until browned. Remove from the skillet and set aside. \n3. In the same skillet, cook the onion and garlic until softened. Add the mushrooms and cook until they release their liquid. \n4. Add the beef broth to the skillet and bring to a simmer. \n5. Stir in the sour cream and return the beef to the skillet."
+      },
+      {
+        "recipeId": "recipe3",
+        "recipeName": "Beef and Broccoli",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "soy sauce",
+          "cornstarch",
+          "sugar",
+          "garlic",
+          "ginger"
+        ],
+        "recipe_img": "https://img.freepik.com/free-photo/sliced-pork-steak-topped-with-white-sesame-fresh-pepper-seeds-along_1150-24780.jpg?size=626&ext=jpg&uid=R101542575&ga=GA1.2.1175214580.1668228643&semt=ais",
+        "rating": 4.8,
+        "cookingMethod": "1. Cut the beef into thin strips. \n2. In a small bowl, whisk together the soy sauce, cornstarch, and sugar. \n3. Heat a large skillet or wok over high heat. Add the vegetable oil and swirl to coat the pan. \n4. Add the beef and stir fry for. \n5. Stir in the sour cream and return the beef to the skillet."
+      }
+    ]
+  }
+]
